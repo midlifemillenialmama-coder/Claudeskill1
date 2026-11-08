@@ -12,4 +12,9 @@ Ask: "Give me my weekly brief" or "Plan my week".
 Edit `skills/weekly-brief/references/preferences.md` to set priority people, ignored senders, and working hours.
 
 ## Install
-Zip the `weekly-brief` folder as `weekly-brief.plugin` and upload it in Cowork, or add this repo as a marketplace in Claude Code.
+Claude Code:
+```
+/plugin marketplace add midlifemillenialmama-coder/Claudeskill1
+/plugin install weekly-brief@motionsites
+```
+Cowork: zip the `weekly-brief` folder as `weekly-brief.plugin` and upload it in Cowork, or add this repo as a marketplace in Claude Code.

@@ -15,6 +15,15 @@
       },
       "homepage": "https://motionsites.ai/?utm_source=github&utm_medium=claude-skill&utm_campaign=web-builder",
       "category": "design"
+    },
+    {
+      "name": "weekly-brief",
+      "source": "./plugins/weekly-brief",
+      "description": "Writes a one-page weekly brief from your calendar, inbox, and Drive: what is on this week, what is waiting on you, and what slipped.",
+      "author": {
+        "name": "midlifemillenialmama"
+      },
+      "category": "productivity"
     }
   ]
 }
